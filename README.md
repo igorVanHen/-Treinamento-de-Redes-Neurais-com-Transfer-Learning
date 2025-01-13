@@ -15,9 +15,6 @@ Este repositório apresenta um projeto de treinamento de redes neurais utilizand
 Linguagem: Python
 
 Bibliotecas Principais: TensorFlow, Keras
-
 Ambiente: Google Colab
-
 Modelo Pré-Treinado: ResNet, VGG16, ou outro conforme implementação
-
 Dataset: Imagens de cães e gatos, com separação em classes para treinamento e validação
